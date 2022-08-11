@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kristen Anderson
-- 👀 I’m interested in PHP
-- 🌱 I’m currently in a Wordpress Apprentaceship.
+- 👀 I’m interested in PHP, My SQL, Javascript, etc
+- 🌱 I’m currently a Wordpress Apprentace.
 - 📫 How to reach me kanderson@alphaworks.tech
 
 <!---
